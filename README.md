@@ -1,6 +1,6 @@
 # CPPND: Program a Concurrent Traffic Simulation
 
-The ChatBot code creates a dialogue where users can ask questions about some aspects of memory management in C++. After the knowledge base of the chatbot has been loaded from a text file, a knowledge graph representation is created in computer memory, where chatbot answers represent the graph nodes and user queries represent the graph edges. After a user query has been sent to the chatbot, the Levenshtein distance is used to identify the most probable answer. The code is focused on using various C++ Memory Management features such as Move Semantics, Smart Pointers etc.
+This project is built using a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. C++ Concurrent programming conepts(such as mutexes, locks and message queues) are used to implement the traffic lights and integrate them properly into the code base.
 
 <img src="data/traffic_simulation.gif"/>
 
